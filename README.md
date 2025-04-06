@@ -1,5 +1,5 @@
 # VaultX від Innovatech
-![thumbnail](Media/main.png)
+![thumbnail](Media/VaultX_VideoPicture.png)
 ## Опис проекту
 Проект являє собою електронний пристрій на базі Arduino Uno. Дозволяє робити наступне:
 - Зчитувати монети номіналом 1, 2, 5, 10 грн
